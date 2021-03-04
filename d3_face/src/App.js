@@ -1,8 +1,8 @@
+import React from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-
-import D3Workspace from './D3Workspace';
-//import Smile from './Smile';
+import D3Workspace from './components/D3Workspace';
 
 function App() {
   return (
